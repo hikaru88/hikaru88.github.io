@@ -12,7 +12,6 @@ var urlsToCache = [
         console.log('ServiceWorker registration failed: ', err);
     });
     }
-    </script>
 
 // インストール処理
 self.addEventListener('install', function(event) {
